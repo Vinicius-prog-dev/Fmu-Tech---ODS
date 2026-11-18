@@ -1,6 +1,6 @@
 # 🏥 Estoque Vital
 <p align="center">
-  <img src="assents/Logo do Estoque Vital.jpeg" alt="Logo do projeto Estoque Vital" width="300"/>
+  <img src="assets/Logo do Estoque Vital.jpeg" alt="Logo do projeto Estoque Vital" width="300"/>
 </p>
 > **Inteligência de dados aplicada ao combate ao desperdício e ao desabastecimento de medicamentos essenciais na rede pública de saúde.**
 
