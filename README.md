@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="assets/Logo do Estocagem Vital.jpeg" alt="Logo do projeto Estoque Vital" width="200"/>
-
   # 🏥 Estoque Vital
+  
+  <img src="assets/Logo do Estocagem Vital.jpeg" alt="Logo do projeto Estoque Vital" width="200"/>
 
 </div>
 
