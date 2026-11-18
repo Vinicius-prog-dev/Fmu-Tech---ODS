@@ -78,6 +78,15 @@ O logotipo do **Estoque Vital** combina uma **cruz médica minimalista** (repres
 
 ---
 
+## 👥 Equipe e Contribuições
+Projeto desenvolvido pelos discentes do 2º semestre de **Ciência de Dados — Centro Universitário FMU**:
+
+| Integrante | RA | Papel / Foco no Projeto | GitHub |
+| :--- | :--- | :--- | :--- |
+| **Vinicius Galoa Fonseca Santos** | `2026110561` | Coleta e Tratamento de Dados (ETL) e Identidade Visual, Documentação e Pitch | [@Vinicius-prog-dev](https://github.com/Vinicius-prog-dev) |
+| **Nome do Colega 2** | `RA do Colega 2` | Análise Exploratória e Regras de Alerta | [@usuario2](https://github.com/) |
+| **Nome do Colega 3** | `RA do Colega 3` | Prototipagem do Dashboard (Streamlit) | [@usuario3](https://github.com/) |
+
 ## 5. 📂 Estrutura Planejada do Repositório
 ```text
 estoque-vital/
@@ -86,13 +95,3 @@ estoque-vital/
 ├── notebooks/            # Exploração inicial e limpeza de dados (Jupyter/Colab)
 ├── src/                  # Código-fonte da aplicação e dashboard (Streamlit)
 └── README.md             # Documentação oficial do projeto (Checkpoint 1)
-
-## 👥 Equipe e Contribuições
-Projeto desenvolvido pelos discentes do 2º semestre de **Ciência de Dados — Centro Universitário FMU**:
-
-| Integrante | RA | Papel / Foco no Projeto | GitHub |
-| :--- | :--- | :--- | :--- |
-| **Seu Nome Completo** | `Seu RA` | Coleta e Tratamento de Dados (ETL) | [@Vinicius-prog-dev](https://github.com/Vinicius-prog-dev) |
-| **Nome do Colega 2** | `RA do Colega 2` | Análise Exploratória e Regras de Alerta | [@usuario2](https://github.com/) |
-| **Nome do Colega 3** | `RA do Colega 3` | Prototipagem do Dashboard (Streamlit) | [@usuario3](https://github.com/) |
-| **Nome do Colega 4** | `RA do Colega 4` | Identidade Visual, Documentação e Pitch | [@usuario4](https://github.com/) |
