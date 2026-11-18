@@ -2,7 +2,6 @@
 <p align="left">
   <img src="assets/Logo do Estoque Vital.jpeg" alt="Logo do projeto Estoque Vital" width="300"/>
 </p>
-> **Inteligência de dados aplicada ao combate ao desperdício e ao desabastecimento de medicamentos essenciais na rede pública de saúde.**
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-2E7D32?style=for-the-badge)
 ![ODS](https://img.shields.io/badge/ONU-ODS_3:_Saúde_e_Bem--Estar-1E88E5?style=for-the-badge)
