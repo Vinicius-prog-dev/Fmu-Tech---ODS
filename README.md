@@ -174,11 +174,11 @@ Ambas as fontes são carregadas do Google Fonts dentro do app.
 <!-- Salve os prints em assets/prints/ com estes nomes -->
 | Tela inicial | Painel da UBS |
 |---|---|
-| ![Tela inicial](assets/prints/01_inicio.png) | ![Painel UBS](assets/prints/02_painel_ubs.png) |
+| ![Tela inicial](assets/assets/prints/01_inicio.png) | ![Painel UBS](assets/prints/02_painel_ubs.png) |
 
 | Painel da CAF: mapa de calor | Painel da CAF: remanejamentos |
 |---|---|
-| ![Mapa de calor](assets/prints/03_caf_mapa.png) | ![Remanejamentos](assets/prints/04_caf_remanejamento.png) |
+| ![Mapa de calor](assets/assets/prints/03_caf_mapa.png) | ![Remanejamentos](assets/prints/04_caf_remanejamento.png) |
 
 ### Dados reais × simulados
 * **Reais (BPS 2026):** nomes dos 30 medicamentos, preços unitários de referência e quantidade anual comprada por Porto Alegre.
