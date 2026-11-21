@@ -10,7 +10,7 @@
 
 > **Gestão inteligente de medicamentos na Atenção Básica:** painéis que mostram o que está **em falta**, o que está **para vencer** e o que **já venceu** nas UBSs, e sugerem **remanejamentos entre unidades** para evitar desperdício e desabastecimento.
 
-🔗 **Protótipo online:** `COLE AQUI O LINK DO STREAMLIT CLOUD`
+🔗 **Protótipo online: [Acessar o Estoque Vital](https://fmu-tech---ods-jdcseamp3kpe2vy8zq77kl.streamlit.app/Painel_CAF)** 
 🎬 **Vídeo de demonstração:** `COLE AQUI O LINK DO YOUTUBE (não listado)`
 
 ---
