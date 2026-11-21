@@ -1,6 +1,0 @@
-data/estoque_vital.db
-__pycache__/
-*.pyc
-.venv/
-venv/
-.ipynb_checkpoints/
