@@ -46,8 +46,13 @@ div[data-testid="stMetric"] {{
     background: white; border-radius: 12px; padding: 14px 18px;
     border-left: 6px solid {CORES['azul']}; box-shadow: 0 1px 3px rgba(0,0,0,.08);
 }}
-div[data-testid="stMetricLabel"] p {{ font-weight: 500; color: {CORES['texto']}; }}
-.ev-aviso {{ font-size: .85rem; color: #6B7280; }}
+div[data-testid="stMetricLabel"], div[data-testid="stMetricLabel"] * {{
+    color: {CORES['texto']} !important; font-weight: 500; white-space: normal !important;
+}}
+div[data-testid="stMetricValue"], div[data-testid="stMetricValue"] * {{
+    color: {CORES['azul']} !important; font-family: 'Inter', sans-serif; font-weight: 700;
+    font-size: 1.7rem !important; white-space: normal !important; overflow: visible !important;
+}}
 </style>
 """
 
