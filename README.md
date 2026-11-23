@@ -271,8 +271,8 @@ Projeto desenvolvido por estudantes do 2º semestre de **Ciência de Dados, Cent
 | Integrante | RA | Papel no projeto | GitHub |
 |---|---|---|---|
 | **Vinicius Galoa Fonseca Santos** | `2026110561` | Tratamento da base BPS (ETL), identidade visual e documentação | [@Vinicius-prog-dev](https://github.com/Vinicius-prog-dev) |
-| **NOME DO INTEGRANTE 2** | `RA` | Regras de alerta e dados simulados | [@usuario](https://github.com/) |
-| **NOME DO INTEGRANTE 3** | `RA` | Telas Streamlit, deploy e vídeo | [@usuario](https://github.com/) |
+| **Pedro Lopes** | `2026216776` | Regras de alerta e dados simulados | [@Pedrolopestr1](https://github.com/Pedrolopestr1) |
+| **Eduardo Viana** | `2026110270` | Telas Streamlit, deploy e vídeo | [@Dudurviana](https://github.com/Dudurviana) |
 
 ---
 <sub>Medicamentos e preços: Banco de Preços em Saúde (BPS), Ministério da Saúde. UBSs, estoques e lotes: dados simulados para fins acadêmicos.</sub>
